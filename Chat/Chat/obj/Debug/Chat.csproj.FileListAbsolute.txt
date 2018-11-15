@@ -1,0 +1,18 @@
+c:\users\etesp\documents\visual studio 2012\Projects\Chat\Chat\bin\Chat.dll
+c:\users\etesp\documents\visual studio 2012\Projects\Chat\Chat\bin\Chat.pdb
+c:\users\etesp\documents\visual studio 2012\Projects\Chat\Chat\obj\Debug\Chat.dll
+c:\users\etesp\documents\visual studio 2012\Projects\Chat\Chat\obj\Debug\Chat.pdb
+c:\users\etesp\documents\visual studio 2012\Projects\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Chat\Chat\bin\Chat.dll.config
+C:\Users\admin\Desktop\Chat\Chat\bin\Chat.dll
+C:\Users\admin\Desktop\Chat\Chat\bin\Chat.pdb
+C:\Users\admin\Desktop\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Chat\Chat\obj\Debug\Chat.dll
+C:\Users\admin\Desktop\Chat\Chat\obj\Debug\Chat.pdb
+C:\Users\migue\Desktop\Técnico - PC\TPI - II\Projetos Diversos\Chat\Chat\Chat\bin\Chat.dll.config
+C:\Users\migue\Desktop\Técnico - PC\TPI - II\Projetos Diversos\Chat\Chat\Chat\bin\Chat.dll
+C:\Users\migue\Desktop\Técnico - PC\TPI - II\Projetos Diversos\Chat\Chat\Chat\bin\Chat.pdb
+C:\Users\migue\Desktop\Técnico - PC\TPI - II\Projetos Diversos\Chat\Chat\Chat\obj\Debug\Chat.csprojAssemblyReference.cache
+C:\Users\migue\Desktop\Técnico - PC\TPI - II\Projetos Diversos\Chat\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\Técnico - PC\TPI - II\Projetos Diversos\Chat\Chat\Chat\obj\Debug\Chat.dll
+C:\Users\migue\Desktop\Técnico - PC\TPI - II\Projetos Diversos\Chat\Chat\Chat\obj\Debug\Chat.pdb
